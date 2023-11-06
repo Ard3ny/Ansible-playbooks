@@ -1,6 +1,0 @@
----
-- name: update thiss package
-  dnf:
-    name:
-     - thiss*
-    state: latest
